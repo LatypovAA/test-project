@@ -1,0 +1,41 @@
+.overflow {
+
+	overflow: auto;
+}
+.marginleft{
+	margin-left: 0 !important; 
+}
+.content_for_margin_bottom {
+	margin-bottom: 5%;
+}
+.input_name_magin_bottom {
+	margin-bottom: 2%;
+}
+
+.margin0 {
+	margin-bottom: 0;
+}
+.hidden {
+	display: none;
+	position: absolute;
+}
+.formalign {
+	margin-left: 9.9%;
+}
+.alertAlign {
+	margin-left: 9.9%;
+}
+.errDisplay{
+	display: none;
+}
+.margin {
+	margin: 0 auto;
+}
+
+.border_input_warning {
+	border-color: red;
+}
+.border_textarea_warning {
+	border-width: 3px;
+	border-color: red;
+}
